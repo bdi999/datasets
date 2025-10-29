@@ -18,4 +18,4 @@ Correctly predict package delivery on-time status for your customers with an acc
 
 ## Evaluation
 
-This competition is evaluated on the weighted mean absolute error (WMAE).
+This dataset is used for a tutorial and does not have a formal evaluation metric. However, the goal is to achieve an accuracy of 80% or better in predicting on-time delivery status.
